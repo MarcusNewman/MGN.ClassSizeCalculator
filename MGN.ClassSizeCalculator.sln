@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassSizeCalculatorTests", "Tests\ClassSizeCalculatorTests.csproj", "{919D97CC-F127-430F-9330-28CD2E80467D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MGN.ClassSizeCalculator", "MGN.ClassSizeCalculator\MGN.ClassSizeCalculator.csproj", "{8F0779A3-36E8-44C8-BD39-0D3B8ADF4301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919D97CC-F127-430F-9330-28CD2E80467D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919D97CC-F127-430F-9330-28CD2E80467D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919D97CC-F127-430F-9330-28CD2E80467D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919D97CC-F127-430F-9330-28CD2E80467D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0779A3-36E8-44C8-BD39-0D3B8ADF4301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0779A3-36E8-44C8-BD39-0D3B8ADF4301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0779A3-36E8-44C8-BD39-0D3B8ADF4301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0779A3-36E8-44C8-BD39-0D3B8ADF4301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
